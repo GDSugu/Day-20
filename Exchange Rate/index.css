@@ -1,0 +1,44 @@
+body{
+    background-color: lightblue;
+}
+h2{
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    font-family:cursive;
+    padding:40px;
+    text-shadow: 2px 2px #FF0000;
+}
+
+#from{
+ padding-bottom: 30px;
+}
+#to{
+    padding-bottom: 30px;  
+}
+#exchange{
+    padding-bottom: 30px; 
+}
+#description{
+    width:150px;
+    justify-content: center;
+    background-color:rgb(221, 103, 143);
+    color: beige;
+    font-weight: bold;
+}
+.currency{
+    text-transform:uppercase;
+    font-weight: bold;
+    justify-content: center;
+    text-align: center;
+}
+#click{
+    font-weight: bolder;
+    margin-bottom: 30px;
+}
+
+td,th{
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+}

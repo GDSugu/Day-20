@@ -1,0 +1,32 @@
+body{
+    background-color: lightblue;
+}
+
+h2{
+    text-align: center;
+    font-weight: bold;
+    color:blueviolet;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow: 2px 2px brown;
+    
+    margin:20px;
+}
+#latitude,#longitude{
+    margin-bottom: 20Px;
+    text-align: center;
+    justify-content: center;
+    font-size: larger;
+    font-weight: bold;
+}
+
+#description1,#description2{
+    width: 150px;
+    text-align: center;
+    justify-content: center;
+    font-weight: bolder;
+    color:brown;
+    font-size: larger;
+}
+button{
+    margin-bottom: 20px;
+}
